@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [JTAG.PcbDoc]
+   Generated File[JTAG.TXT]
+   Generated File[JTAG.LDP]
+   Generated File[JTAG.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:50:41 PM On 3/14/2017

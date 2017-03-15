@@ -1,0 +1,5 @@
+Added Component: Designator=J2(30306-6002HB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "30306-6002HB"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=JTAG Member=Component J2 30306-6002HB

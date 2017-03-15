@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=GND Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Net: Name=GND
+Added Pin To Net: NetName=nRESET Pin=J1-3
+Added Pin To Net: NetName=nRESET Pin=J1-15
+Added Pin To Net: NetName=nRESET Pin=J2-3
+Added Net: Name=nRESET
+Added Pin To Net: NetName=SWCLK Pin=J1-9
+Added Pin To Net: NetName=SWCLK Pin=J2-4
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J1-7
+Added Pin To Net: NetName=SWDIO Pin=J2-2
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SWO Pin=J1-13
+Added Pin To Net: NetName=SWO Pin=J2-6
+Added Net: Name=SWO
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Net: Name=VCC

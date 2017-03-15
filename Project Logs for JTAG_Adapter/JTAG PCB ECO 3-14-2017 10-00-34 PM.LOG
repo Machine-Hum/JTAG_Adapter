@@ -1,0 +1,5 @@
+Added Component: Designator=J1(SFH11-PBPC-D10-RA-BK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SFH11-PBPC-D10-RA-BK"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=JTAG Member=Component J1 SFH11-PBPC-D10-RA-BK
