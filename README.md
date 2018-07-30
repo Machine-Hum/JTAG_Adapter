@@ -1,7 +1,6 @@
 Simple JTAG Adapter
 -----------
 
-Because fuck paying 40$ for an adapter
 ![alt tag](Part.PNG)
 
 Bom is pretty simple.
